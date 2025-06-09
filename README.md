@@ -21,12 +21,13 @@ Here's the breakdown of the key of concepts and practical implementations I work
 - Built models for **images classification** AND **Debiasing Facial Detection Systems** using **CNN**
 
 ## Lab 3 :✍🏽🧠LLM
-- I built and fine-tuned a large language model (LLM), but due to my PC's minimum requirements, I was unable to run it. In the future, I plan to revisit and refine the model to ensure successful execution.
-
+- I built and fine-tuned a large language model (LLM)
+  
 ## 💡What I learned
 This course was more than just lines of code.It was a spark i gained:
 - A deeper intuition for how neural network works.
 - The Confidence in building models end to end.
+
 
 
 ## 📚 Tech Stack
